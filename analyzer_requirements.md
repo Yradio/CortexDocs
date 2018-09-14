@@ -470,7 +470,7 @@ This analyzer comes in only one flavor.
 
 #### Requirements
 Prior to using the analyzer, you need to retrieve the Virusshare hash lists
-using the `download_hashes.py` script that is located in the same directory
+using the `getHashes.sh` script that is located in the same directory
 as the analyzer. To keep your lists fresh, you may want to regularly
 download them using a cron entry or a similar system.
 
